@@ -1,0 +1,22 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: rgb(152, 177, 223);
+}
+h1{
+    padding: 1rem 0 1rem 0;
+}
+li a{
+    text-decoration: none;
+    color: tomato;
+    
+}
+i p{
+    text-align: center;
+    text-align: justify;
+    padding: 2rem 1rem 1rem 1rem;
+}
+.pie{
+padding: 1rem 0 1rem 0;
+}
